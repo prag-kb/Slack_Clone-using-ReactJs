@@ -39,7 +39,7 @@ function sidebar() {
         <hr/>
         <SidebarOption Icon={ExpandMoreIcon} title="Channel" />
         <hr/>
-        <SidebarOption Icon={AddIcon} title="Add" />
+        <SidebarOption Icon={AddIcon} title="Add Channel" />
 
         {/* after connecting to dB it will list all the channels <SidebarOption.../>........*/}
     </div>
